@@ -39,7 +39,7 @@ This project is part of the **#ChaichologyChallenge** initiated by [Digits N Dat
 
 ## 📄 Final Output
 
-The complete analysis along with visual insights and summary has been shared in a separate **PDF presentation** — available on my [LinkedIn](https://www.linkedin.com/in/divyanshi-doser/) post. Check it out for visuals and conclusions!
+The complete analysis along with visual insights and summary has been shared in a separate **PDF presentation** — [Presentation](https://www.linkedin.com/posts/divyanshi-doser_chaichology-presentation-activity-7338489058274234368-p8Vb?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE) post. Check it out for visuals and conclusions!
 
 ---
 
